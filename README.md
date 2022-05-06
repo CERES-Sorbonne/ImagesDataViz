@@ -5,3 +5,5 @@ Cette réflexion part d’un besoin de prolonger les recherches de Virginie Jull
 D’autres projets à CERES ou ailleurs pourront également bénéficier de ces travaux, notamment concernant :
 - la circulation de fragments textuels dans les mazarinades, courtes publications datant du 17ème siècle, avec Karine Abiven
 - la reprise de dépêches AFP dans les médias, avec Lisa Bolz
+
+![chart](https://user-images.githubusercontent.com/104915084/167105596-4be7f669-bec8-409f-92bf-970afeb9cd29.svg)
