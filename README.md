@@ -6,4 +6,4 @@ D’autres projets à CERES ou ailleurs pourront également bénéficier de ces 
 - la circulation de fragments textuels dans les mazarinades, courtes publications datant du 17ème siècle, avec Karine Abiven
 - la reprise de dépêches AFP dans les médias, avec Lisa Bolz
 
-![chart](https://user-images.githubusercontent.com/104915084/167105596-4be7f669-bec8-409f-92bf-970afeb9cd29.svg)
+![chart](https://user-images.githubusercontent.com/104915084/167106224-d9d8b0d3-d7de-4d26-9678-d04403ca139a.svg)
