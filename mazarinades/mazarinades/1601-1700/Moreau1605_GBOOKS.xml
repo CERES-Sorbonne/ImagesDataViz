@@ -20,15 +20,15 @@
       </titleStmt>
       <publicationStmt>
         <publisher>Projet ANTONOMAZ / Sorbonne Université</publisher>
-        <ref target="https://github.com/Antonomaz"/>
+        <ref target="https://github.com/Antonomaz" />
         <date type="file_creation" when="2021-11-02">2 novembre 2021</date>
         <availability n="cc-by" status="restricted">
-          <licence target="https://creativecommons.org/licenses/by/4.0"/>
+          <licence target="https://creativecommons.org/licenses/by/4.0" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <ref target="https://books.google.fr/books?id=aEhcLOOmeAYC"/>
+          <ref target="https://books.google.fr/books?id=aEhcLOOmeAYC" />
           <author ref="isni:0000000108628124">
             <persName>
               <forename>Omer</forename>
@@ -44,16 +44,16 @@
           </publisher>
           <date source="Moreau" when="1652">1652</date>
           <extent>
-            <measure quantity="7" unit="page"/>
+            <measure quantity="7" unit="page" />
           </extent>
           <note type="format">in-4</note>
-          <relatedItem source="Mazarine" type="identifier" subtype="none" cert="low" target="none"/>
+          <relatedItem source="Mazarine" type="identifier" subtype="none" cert="low" target="none" />
         </bibl>
         <msDesc>
           <msIdentifier>
             <settlement ref="geonames:2996944">Lyon</settlement>
             <institution>Bibliothèque municipale</institution>
-            <repository/>
+            <repository />
             <idno type="cote">309142</idno>
           </msIdentifier>
           <history>
@@ -75,7 +75,7 @@
         <p>L'édition présentée ici est issue d'un processus d'OCRisation réalisé avec Kraken.</p>
       </projectDesc>
       <editorialDecl>
-        <p/>
+        <p />
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -83,24 +83,26 @@
         <language ident="fra">Document en français</language>
       </langUsage>
       <abstract>
-        <p source="Mazarine"/>
+        <p source="Mazarine" />
       </abstract>
       <textClass>
         <keywords>
           <term type="form">prose</term>
-          <term type="handwritten_note" subtype="no"/>
-          <term type="table_of_content" subtype="no"/>
-          <term type="illustration" subtype="no"/>
+          <term type="handwritten_note" subtype="no" />
+          <term type="table_of_content" subtype="no" />
+          <term type="illustration" subtype="no" />
         </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change status="corrected" when="2022-04-07" who="AB"/>
+      <change status="corrected" when="2022-04-07" who="AB" />
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <p>OCR À REFAIRE <gap/>
+      <p>
+        OCR À REFAIRE
+        <gap />
       </p>
     </body>
   </text>
